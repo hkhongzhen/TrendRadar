@@ -1,58 +1,7 @@
 {
-  "generated_at": "2025-12-04T23:32:44.497249+08:00",
-  "total_titles_processed": 1786,
+  "generated_at": "2025-12-05T00:39:01.265686+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "出海 独立开发者",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "西芒杜首船出海：打破“铁三角”垄断，全球矿市出现超级“中国变量”",
-          "url": "https://wallstreetcn.com/articles/3760589",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时24分]"
-        },
-        {
-          "title": "台湾首艘自造潜艇出海测试，“锚”都没有",
-          "url": "https://news.ifeng.com/c/8onzWHTmAoc",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时29分 ~ 16时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
-          "url": "https://wallstreetcn.com/articles/3760564",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 04时32分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
