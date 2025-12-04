@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T15:28:23.880067+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2025-12-04T16:37:57.348928+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "url": "https://news.ifeng.com/c/8onzWHTmAoc",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时29分 ~ 15时28分]"
+          "appearance_count": 5,
+          "time_info": "[13时29分 ~ 16时37分]"
         }
       ]
     },
