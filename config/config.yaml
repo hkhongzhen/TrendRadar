@@ -64,8 +64,12 @@ weight:
 # 增加无聊的小知识
 # 这里的 name 你可以定义任意名称，只具有显示作用，不会影响数据的处理
 platforms:
-  - id: "toutiao"
-    name: "今日头条"
+  - id: "douyin"
+    name: "抖音"
+  - id: "zhihu"
+    name: "知乎"
+  - id: "kuaishou"
+    name: "快手"
   - id: "baidu"
     name: "百度热搜"
   - id: "wallstreetcn-hot"
@@ -82,11 +86,7 @@ platforms:
     name: "贴吧"
   - id: "weibo"
     name: "微博"
-  - id: "douyin"
-    name: "抖音"
-  - id: "zhihu"
-    name: "知乎"
-  - id: "kuaishou"
-    name: "快手"
-  - id: "douyin"
-    name: "抖音"
+  - id: "toutiao"
+    name: "今日头条"
+
+
