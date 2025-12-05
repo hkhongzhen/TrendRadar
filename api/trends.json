@@ -1,7 +1,36 @@
 {
-  "generated_at": "2025-12-06T03:23:09.189729+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2025-12-06T04:31:16.326840+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "谷歌 google gemini vibe coding",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
+          "url": "https://flash.jin10.com/detail/20251206034533252800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国国土安全委员会：正在调查谷歌可能托管的部分应用程序，这些程序可让用户匿名举报并追踪联邦执法部门的动向。担忧部分由谷歌托管的应用程序危及国土安全部人员的安全。",
+          "url": "https://flash.jin10.com/detail/20251206034235677800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
