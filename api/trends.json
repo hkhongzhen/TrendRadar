@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T18:26:50.668250+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2025-12-06T19:21:18.403622+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             20,
             13,
             6,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时15分 ~ 18时26分]"
+          "appearance_count": 11,
+          "time_info": "[11时15分 ~ 19时21分]"
         },
         {
           "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
@@ -69,6 +70,17 @@
           "time_info": "[07时25分 ~ 09时56分]"
         },
         {
+          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
+          "url": "https://wallstreetcn.com/articles/3760832",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 19时21分]"
+        },
+        {
           "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo自愿向美国国家公路交通安全管理局（NHTSA）申请软件召回。",
           "url": "https://wallstreetcn.com/livenews/3016148",
           "source": "华尔街见闻-快讯",
@@ -79,17 +91,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时25分]"
-        },
-        {
-          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
-          "url": "https://wallstreetcn.com/articles/3760832",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时26分]"
         }
       ]
     }
