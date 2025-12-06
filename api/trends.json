@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T21:32:07.221099+08:00",
-  "total_titles_processed": 1470,
+  "generated_at": "2025-12-06T22:23:20.758592+08:00",
+  "total_titles_processed": 1529,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,19 @@
           "time_info": "[11时15分 ~ 21时32分]"
         },
         {
+          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
+          "url": "https://wallstreetcn.com/articles/3760832",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时26分 ~ 22时23分]"
+        },
+        {
           "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
           "url": "https://flash.jin10.com/detail/20251206034533252800",
           "source": "金十数据",
@@ -32,18 +45,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时31分 ~ 07时25分]"
-        },
-        {
-          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
-          "url": "https://wallstreetcn.com/articles/3760832",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时26分 ~ 21时32分]"
         },
         {
           "title": "美国法官发布最终的搜索反垄断官司判决结果：谷歌公司必须将默认合同限定在一年。",
