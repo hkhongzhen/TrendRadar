@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-09T01:27:07.707323+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2025-12-09T02:41:01.431261+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
-          "url": "https://wallstreetcn.com/livenews/3017098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
         {
           "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
           "url": "https://www.cls.cn/detail/2223271",
@@ -26,8 +15,42 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 02时41分]"
+        },
+        {
+          "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
+          "url": "https://wallstreetcn.com/livenews/3017098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时41分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：首款人工智能眼镜将于明年上市。",
+          "url": "https://flash.jin10.com/detail/20251209021608071800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：在谷歌实验室的实验性人工智能应用Doppl中推出可购物的时尚发现信息流。",
+          "url": "https://flash.jin10.com/detail/20251209020747486800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         }
       ]
     }
