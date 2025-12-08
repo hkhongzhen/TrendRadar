@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T11:58:32.702321+08:00",
-  "total_titles_processed": 760,
+  "generated_at": "2025-12-08T12:41:10.704368+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌(GOOG.O)计划到2027年生产超过500万个TPU以增加供应。",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时28分 ~ 06时24分]"
+        },
+        {
+          "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
+          "url": "https://www.cls.cn/detail/2222331",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
           "title": "详谈谷歌TPU芯片：如何与博通博弈？能否和英伟达竞争？",
