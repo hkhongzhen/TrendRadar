@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-12-10T00:35:37.385497+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-10T01:27:20.204537+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "谷歌 google gemini vibe coding",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI：与Anthropic和Block共同在Linux基金会下创立AAIF，并获得谷歌、微软、AWS、彭博和Cloudflare的支持。",
+          "url": "https://flash.jin10.com/detail/20251210010957028800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
