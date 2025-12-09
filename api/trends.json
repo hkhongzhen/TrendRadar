@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T20:57:58.709420+08:00",
-  "total_titles_processed": 1808,
+  "generated_at": "2025-12-09T21:42:05.735087+08:00",
+  "total_titles_processed": 1886,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,18 @@
           "time_info": "[10时02分 ~ 15时28分]"
         },
         {
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时34分 ~ 21时42分]"
+        },
+        {
           "title": "欧盟就谷歌将在线内容用于AI相关用途一事发起反垄断调查",
           "url": "https://flash.jin10.com/detail/20251209161413716800",
           "source": "金十数据",
@@ -69,18 +81,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时27分 ~ 03时23分]"
-        },
-        {
-          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
-          "url": "https://wallstreetcn.com/articles/3760956",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时34分 ~ 20时57分]"
         },
         {
           "title": "NextEra携手谷歌与埃克森，布局美国数据中心能源供应",
