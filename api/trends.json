@@ -1,221 +1,33 @@
 {
-  "generated_at": "2025-12-12T23:31:09.433839+08:00",
-  "total_titles_processed": 2175,
+  "generated_at": "2025-12-13T00:34:22.870595+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 18,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
           "url": "https://wallstreetcn.com/articles/3761213",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7,
-            6,
-            5,
-            4,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时05分 ~ 23时31分]"
+          "appearance_count": 1,
+          "time_info": "00时34分"
         },
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
           "source": "bilibili 热搜",
           "ranks": [
-            15,
-            22,
-            20,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时26分 ~ 23时31分]"
-        },
-        {
-          "title": "摩根大通：将谷歌母公司Alphabet目标价由340美元上调至385美元。",
-          "url": "https://flash.jin10.com/detail/20251212171210450800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
-          "url": "https://flash.jin10.com/detail/20251212010455282800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
-        {
-          "title": "随着与谷歌的竞争加剧，OpenAI推出更先进的模型",
-          "url": "https://wallstreetcn.com/livenews/3019365",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 04时31分]"
-        },
-        {
-          "title": "迪士尼(DIS.N)首席执行官就致谷歌(GOOG.O)的信件表示，我们别无选择，只能向谷歌发出停止侵权函。",
-          "url": "https://flash.jin10.com/detail/20251212000641359800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时32分]"
-        },
-        {
-          "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
-          "url": "https://wallstreetcn.com/articles/3761169",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet跌幅扩大至3.5%。 微软涨1.2%，刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3019371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时31分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：推出交互API，为与我们的模型、Gemini 3 Pro以及Gemini深度研究等智能体进行交互提供统一接口。",
-          "url": "https://flash.jin10.com/detail/20251212010409601800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
-        {
-          "title": "标普500指数初步收涨0.2%，原材料板块涨2.1%，金融板块涨1.8%，科技板块跌0.7%，电信板块跌1.1%。 纳斯达克100指数初步收跌0.3%，成分股中，Trade Desk初步收跌5.3%，Arm控股跌3.8%，迈威尔科技跌3.5%，英特尔跌3.3%，谷歌A跌2.5%，美光科技跌2.2%，Adobe则收涨2.1%，再生元制药涨2.7%，Linde Plc.涨2.7%，万豪国际涨3.3%，核电股Constellation Energy涨4.3%。 Visa初步收涨6.3%，领跑道指成分股，耐克涨2.9%，高盛涨2.8%，美国运通涨2.7%，Salesforce则跌0.8%表现倒数第五，亚马逊跌0.9%，思科跌1.2%，可口可乐跌1.5%，英伟达跌1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3019406",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：发布更强大的Gemini深度研究代理，可通过交互API获得并使用。",
-          "url": "https://flash.jin10.com/detail/20251212010242999800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：宣布与英国国家量子计算中心开展全新合作。",
-          "url": "https://flash.jin10.com/detail/20251212150720006800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "消息人士：谷歌(GOOG.O)为遵守具有里程碑意义的欧盟新规所做的努力仍显不足，其明年将因偏袒自家服务而面临欧盟罚款。",
-          "url": "https://flash.jin10.com/detail/20251212015625027800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜谷歌A收跌超2.4%，英伟达跌超1.5%，微软涨1%",
-          "url": "https://wallstreetcn.com/livenews/3019411",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "随着与谷歌的竞赛升级 OpenAI推出更先进的模型GPT-5.2",
-          "url": "https://flash.jin10.com/detail/20251212023829675800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "谷歌公司：发布更强大的Gemini深度研究代理，可通过交互API获得并使用。 推出交互API，为与我们的模型、Gemini 3 Pro以及Gemini深度研究等智能体进行交互提供统一接口。 开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
-          "url": "https://wallstreetcn.com/livenews/3019352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：Gemini 3对我们各项指标的影响比我们担心的要小。",
-          "url": "https://flash.jin10.com/detail/20251211235011876800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
-          "url": "https://wallstreetcn.com/livenews/3019491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
+          "time_info": "00时34分"
         }
       ]
     }
