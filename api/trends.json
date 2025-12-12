@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T13:29:28.277364+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2025-12-12T14:42:12.251148+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 13时29分]"
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 14时42分]"
         },
         {
           "title": "谷歌(GOOG.O)：开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
