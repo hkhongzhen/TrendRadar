@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T21:40:21.404978+08:00",
-  "total_titles_processed": 2002,
+  "generated_at": "2025-12-12T22:25:54.836714+08:00",
+  "total_titles_processed": 2074,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时05分 ~ 21时40分]"
+          "appearance_count": 15,
+          "time_info": "[10时05分 ~ 22时25分]"
         },
         {
           "title": "摩根大通：将谷歌母公司Alphabet目标价由340美元上调至385美元。",
@@ -75,11 +75,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 21时40分]"
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 22时25分]"
         },
         {
           "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
