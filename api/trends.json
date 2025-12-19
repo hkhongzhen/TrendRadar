@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T15:28:12.510059+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2025-12-19T16:37:51.084832+08:00",
+  "total_titles_processed": 1506,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "url": "https://www.cls.cn/detail/2234237",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 15时28分]"
+          "appearance_count": 3,
+          "time_info": "[15时27分 ~ 16时37分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超3.4%，亚马逊涨约2.5%，谷歌和英伟达涨约1.9%",
