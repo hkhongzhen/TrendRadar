@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T10:12:21.485189+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2025-12-21T12:04:00.584282+08:00",
+  "total_titles_processed": 710,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时31分 ~ 04时27分]"
+        },
+        {
+          "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
+          "url": "https://wallstreetcn.com/articles/3761778",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 12时04分]"
         }
       ]
     }
