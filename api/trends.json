@@ -1,38 +1,7 @@
 {
-  "generated_at": "2025-12-26T23:28:26.679715+08:00",
-  "total_titles_processed": 1798,
+  "generated_at": "2025-12-27T00:32:25.900689+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英伟达急了？或被谷歌TPU逼到墙角，黄仁勋不惜代价也要“收编”Groq",
-          "url": "https://wallstreetcn.com/articles/3762068",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时33分 ~ 18时29分]"
-        },
-        {
-          "title": "谷歌将允许用户更改Gmail邮箱地址",
-          "url": "https://flash.jin10.com/detail/20251226220031392800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
