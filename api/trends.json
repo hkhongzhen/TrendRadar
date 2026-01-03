@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-01-03T23:26:28.850714+08:00",
-  "total_titles_processed": 1593,
+  "generated_at": "2026-01-04T00:32:51.022799+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "ai变现 割韭菜",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "婚前割韭菜,声优骗光男粉积蓄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348646&amp;topic_name=%E5%A9%9A%E5%89%8D%E5%89%B2%E9%9F%AD%E8%8F%9C%2C%E5%A3%B0%E4%BC%98%E9%AA%97%E5%85%89%E7%94%B7%E7%B2%89%E7%A7%AF%E8%93%84",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时58分 ~ 21时34分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
