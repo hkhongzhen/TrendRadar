@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-01-05T23:32:20.250501+08:00",
-  "total_titles_processed": 1912,
+  "generated_at": "2026-01-06T00:35:36.874311+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌(GOOG.O)宣布为Google TV推出全新Gemini功能。",
-          "url": "https://flash.jin10.com/detail/20260105221438518800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时32分"
-        },
-        {
-          "title": "高通(QCOM.O)宣布扩大与谷歌(GOOG.O)长达十年的合作，聚焦汽车创新与人工智能驱动的移动出行技术。",
-          "url": "https://flash.jin10.com/detail/20260105220255157800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时32分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
