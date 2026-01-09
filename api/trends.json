@@ -1,39 +1,7 @@
 {
-  "generated_at": "2026-01-09T23:32:20.112255+08:00",
-  "total_titles_processed": 2163,
+  "generated_at": "2026-01-10T00:37:31.399445+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "加速AI落地 谷歌为Gmail引入更多Gemini功能",
-          "url": "https://www.cls.cn/detail/2252328",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时33分 ~ 06时28分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达收跌约2.2%，谷歌A涨约1.1%，亚马逊涨超1.9%",
-          "url": "https://wallstreetcn.com/livenews/3033564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时28分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
