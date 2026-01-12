@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T07:26:20.396640+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-01-12T10:22:15.061899+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时33分 ~ 06时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "漫剧 AI剧 原创短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "正探索延伸至AI漫剧新赛道 AIGC概念股录得6天3板 本周机构密集调研相关上市公司",
+          "url": "https://www.cls.cn/detail/2254168",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时21分 ~ 10时22分]"
         }
       ]
     }
