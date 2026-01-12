@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T13:36:27.443413+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-01-12T14:48:02.549944+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
@@ -36,13 +36,24 @@
           "time_info": "[00时33分 ~ 06时27分]"
         },
         {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时47分 ~ 14时48分]"
+        },
+        {
           "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
           "url": "https://flash.jin10.com/detail/20260112123727337800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
         }
@@ -58,11 +69,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时21分 ~ 13时36分]"
+          "appearance_count": 6,
+          "time_info": "[10时21分 ~ 14时48分]"
         }
       ]
     }
