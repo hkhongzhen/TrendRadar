@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T14:48:02.549944+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-01-12T15:34:37.072351+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "url": "https://wallstreetcn.com/articles/3763059",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时47分 ~ 14时48分]"
+          "appearance_count": 3,
+          "time_info": "[14时47分 ~ 15时34分]"
         },
         {
           "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
@@ -73,8 +74,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时21分 ~ 14时48分]"
+          "appearance_count": 7,
+          "time_info": "[10时21分 ~ 15时34分]"
         }
       ]
     }
