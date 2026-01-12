@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T17:39:48.452853+08:00",
-  "total_titles_processed": 1279,
+  "generated_at": "2026-01-12T18:33:51.269165+08:00",
+  "total_titles_processed": 1365,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时47分 ~ 17时39分]"
+          "appearance_count": 6,
+          "time_info": "[14时47分 ~ 18时33分]"
         },
         {
           "title": "美股盘前，明星科技股普跌，英伟达(NVDA.O)跌1.2%、谷歌C(GOOG.O)跌0.95%、甲骨文(ORCL.N)跌1.7%、英特尔(INTC.O)跌2%。",
@@ -54,7 +55,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
