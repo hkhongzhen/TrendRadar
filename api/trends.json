@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T00:40:33.520003+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-14T01:33:28.153109+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时33分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时33分]"
         },
         {
           "title": "UP主锐评苹果谷歌合作",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时33分]"
         }
       ]
     }
