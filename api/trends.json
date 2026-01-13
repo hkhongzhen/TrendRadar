@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T05:29:20.180744+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-01-14T06:29:36.765988+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 06时29分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -51,8 +51,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 06时29分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -63,8 +63,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时39分 ~ 05时29分]"
+          "appearance_count": 5,
+          "time_info": "[02时39分 ~ 06时29分]"
         }
       ]
     }
