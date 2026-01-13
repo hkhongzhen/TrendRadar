@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T04:33:29.992889+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-01-14T05:29:20.180744+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 05时29分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 05时29分]"
         },
         {
           "title": "如何评价 Linux 之父 Linus Torvalds 在最新项目中开始使用 vibe coding？",
@@ -39,19 +39,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时26分 ~ 04时33分]"
+          "appearance_count": 3,
+          "time_info": "[03时26分 ~ 05时29分]"
         },
         {
           "title": "UP主锐评苹果谷歌合作",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 05时29分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -62,8 +63,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时39分 ~ 04时33分]"
+          "appearance_count": 4,
+          "time_info": "[02时39分 ~ 05时29分]"
         }
       ]
     }
