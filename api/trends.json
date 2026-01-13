@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T06:29:36.765988+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2026-01-14T07:25:57.330003+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,18 @@
           "time_info": "[00时40分 ~ 05时29分]"
         },
         {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时25分]"
+        },
+        {
           "title": "如何评价 Linux 之父 Linus Torvalds 在最新项目中开始使用 vibe coding？",
           "url": "https://www.zhihu.com/question/1993833102485788460",
           "source": "知乎",
@@ -41,18 +53,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时26分 ~ 05时29分]"
-        },
-        {
-          "title": "UP主锐评苹果谷歌合作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时29分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
