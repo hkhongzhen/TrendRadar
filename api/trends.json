@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T02:39:41.946195+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-01-14T03:26:44.318164+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时26分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -27,8 +27,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时26分]"
+        },
+        {
+          "title": "如何评价 Linux 之父 Linus Torvalds 在最新项目中开始使用 vibe coding？",
+          "url": "https://www.zhihu.com/question/1993833102485788460",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         },
         {
           "title": "UP主锐评苹果谷歌合作",
@@ -38,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时26分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -48,9 +59,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时26分]"
         }
       ]
     }
