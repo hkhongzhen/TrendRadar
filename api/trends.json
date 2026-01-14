@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T12:13:19.498470+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-01-14T13:32:02.564588+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 12时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 13时32分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
