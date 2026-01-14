@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T15:33:06.471934+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2026-01-14T16:39:41.507786+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -26,11 +26,12 @@
             9,
             6,
             10,
-            7
+            7,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 15时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 16时39分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -89,6 +90,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
+        },
+        {
+          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
+          "url": "https://www.zhihu.com/question/1994425649616671736",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         }
       ]
     }
