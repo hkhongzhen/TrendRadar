@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T10:20:46.337245+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2026-01-14T12:13:19.498470+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 10时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 12时13分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -65,6 +65,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时39分 ~ 06时29分]"
+        },
+        {
+          "title": "马斯克抨击苹果与谷歌合作 称其构成“不合理的权力集中”",
+          "url": "https://www.cls.cn/detail/2256720",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 12时13分]"
         }
       ]
     }
