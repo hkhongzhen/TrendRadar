@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T16:39:41.507786+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-01-14T17:36:00.277051+08:00",
+  "total_titles_processed": 1568,
   "failed_sources": [],
   "trends": [
     {
@@ -70,6 +70,18 @@
           "time_info": "[02时39分 ~ 06时29分]"
         },
         {
+          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
+          "url": "https://www.zhihu.com/question/1994425649616671736",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时39分 ~ 17时36分]"
+        },
+        {
           "title": "马斯克抨击苹果与谷歌合作 称其构成“不合理的权力集中”",
           "url": "https://www.cls.cn/detail/2256720",
           "source": "财联社热门",
@@ -90,17 +102,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
-        },
-        {
-          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
-          "url": "https://www.zhihu.com/question/1994425649616671736",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
         }
       ]
     }
