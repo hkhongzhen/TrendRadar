@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T06:29:34.087552+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2026-01-16T07:28:18.031916+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "复盘苹果AI为何转投谷歌",
@@ -16,11 +16,12 @@
             21,
             17,
             14,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 07时28分]"
         },
         {
           "title": "谷歌：推出 TranslateGemma——基于 Gemma 3 构建的全新开源翻译模型系列，助力人们以55种语言无障碍沟通。",
@@ -32,6 +33,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "谷歌母公司 Alphabet 的市值正式突破 4 万亿美元，其在这波 AI 浪潮中做对了什么？",
+          "url": "https://www.zhihu.com/question/1994345893202191645",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         }
       ]
     }
