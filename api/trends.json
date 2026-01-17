@@ -1,52 +1,7 @@
 {
-  "generated_at": "2026-01-17T23:26:53.019689+08:00",
-  "total_titles_processed": 1612,
+  "generated_at": "2026-01-18T00:31:51.927815+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌提交通知，就司法部搜索裁决提起上诉。",
-          "url": "https://flash.jin10.com/detail/20260117050916317800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时28分 ~ 10时05分]"
-        },
-        {
-          "title": "谷歌公司将针对美国法院判决“搜索中出现的非法操纵”提出上诉。",
-          "url": "https://wallstreetcn.com/livenews/3039041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时28分 ~ 10时05分]"
-        },
-        {
-          "title": "字节跳动发布SeedFold，蛋白质结构预测相关多任务超越谷歌AlphaFold 3，揭示大模型缩放新秘诀",
-          "url": "https://wallstreetcn.com/livenews/3039053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时05分 ~ 12时39分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
