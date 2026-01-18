@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T15:26:33.372825+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2026-01-18T16:34:57.187383+08:00",
+  "total_titles_processed": 931,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             21,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 15时26分]"
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 16时34分]"
         },
         {
           "title": "短剧之后漫剧火了",
