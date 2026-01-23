@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T22:35:24.926249+08:00",
-  "total_titles_processed": 2051,
+  "generated_at": "2026-01-23T23:34:10.644230+08:00",
+  "total_titles_processed": 2156,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             20,
             17,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时37分 ~ 22时35分]"
+          "appearance_count": 9,
+          "time_info": "[17时37分 ~ 23时34分]"
         },
         {
           "title": "谷歌、微软回应美国参议院成员们关于（涉及人工智能/数据中心）电力需求的质询。",
