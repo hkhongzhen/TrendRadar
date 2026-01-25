@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T03:22:59.340763+08:00",
-  "total_titles_processed": 361,
+  "generated_at": "2026-01-26T04:31:59.870392+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时31分]"
         },
         {
           "title": "贾国龙：将回归一线 不再打造个人IP",
           "url": "https://flash.jin10.com/detail/20260125205204457800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时31分]"
         }
       ]
     }
