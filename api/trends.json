@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-26T19:28:03.320819+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2026-01-26T21:03:04.548763+08:00",
+  "total_titles_processed": 1610,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "一人公司 个人IP 超级个体",
       "match_count": 3,
       "titles": [
+        {
+          "title": "“一人公司”的风吹到了深圳",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E2%80%9D%E7%9A%84%E9%A3%8E%E5%90%B9%E5%88%B0%E4%BA%86%E6%B7%B1%E5%9C%B3",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时41分 ~ 21时03分]"
+        },
         {
           "title": "贾国龙：将回归一线 不再打造个人IP",
           "url": "https://wallstreetcn.com/livenews/3043390",
@@ -19,18 +32,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时34分 ~ 06时28分]"
-        },
-        {
-          "title": "“一人公司”的风吹到了深圳",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E2%80%9D%E7%9A%84%E9%A3%8E%E5%90%B9%E5%88%B0%E4%BA%86%E6%B7%B1%E5%9C%B3",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时41分 ~ 19时28分]"
         },
         {
           "title": "贾国龙：将回归一线 不再打造个人IP",
