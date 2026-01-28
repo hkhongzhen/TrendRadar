@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T22:39:23.095909+08:00",
-  "total_titles_processed": 2012,
+  "generated_at": "2026-01-28T23:40:40.760118+08:00",
+  "total_titles_processed": 2111,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时13分 ~ 22时39分]"
+          "appearance_count": 15,
+          "time_info": "[10时13分 ~ 23时40分]"
         },
         {
           "title": "谷歌(GOOG.O)：将推出Ads Decoded播客，旨在让广告主直接与打造 Google Ads 的团队成员建立联系。",
@@ -27,7 +27,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -151,7 +151,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
