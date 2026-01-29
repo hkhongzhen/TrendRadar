@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T05:35:16.517943+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-01-30T06:35:48.266173+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌DeepMind登Nature封面",
@@ -18,8 +18,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 05时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 06时35分]"
+        },
+        {
+          "title": "苹果(AAPL.O)CEO库克：谷歌技术将改进Siri，今年晚些时候将推出更新。",
+          "url": "https://flash.jin10.com/detail/20260130053331911800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
         }
       ]
     }
