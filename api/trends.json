@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T22:46:25.807473+08:00",
-  "total_titles_processed": 2071,
+  "generated_at": "2026-01-29T23:42:51.123950+08:00",
+  "total_titles_processed": 2170,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时51分 ~ 22时46分]"
+          "appearance_count": 9,
+          "time_info": "[16时51分 ~ 23时42分]"
         },
         {
           "title": "人类基因密码被谷歌AI破解",
