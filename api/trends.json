@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-01-29T21:12:13.663209+08:00",
-  "total_titles_processed": 1952,
+  "generated_at": "2026-01-29T22:46:25.807473+08:00",
+  "total_titles_processed": 2071,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
       "match_count": 5,
       "titles": [
+        {
+          "title": "谷歌DeepMind登Nature封面",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            10,
+            15,
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时51分 ~ 22时46分]"
+        },
         {
           "title": "人类基因密码被谷歌AI破解",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
@@ -20,20 +35,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时44分 ~ 15时48分]"
-        },
-        {
-          "title": "谷歌DeepMind登Nature封面",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            10,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时51分 ~ 21时12分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
