@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T05:35:23.934139+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-01-31T06:34:14.338843+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             11,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[01时40分 ~ 06时34分]"
         },
         {
           "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
@@ -29,8 +30,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时38分 ~ 05时35分]"
+          "appearance_count": 4,
+          "time_info": "[03时38分 ~ 06时34分]"
         },
         {
           "title": "苹果公司AI研究员Zirui Wang、Siri高级主管Stuart Bowers纷纷跳槽至Alphabet旗下谷歌公司。 扎克伯格旗下Meta Platforms又从苹果挖走至少两名研究员。",
