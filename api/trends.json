@@ -1,37 +1,22 @@
 {
-  "generated_at": "2026-02-01T23:33:00.093510+08:00",
-  "total_titles_processed": 1296,
+  "generated_at": "2026-02-02T00:38:18.644906+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "UP体验谷歌最新世界模型",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 07时31分]"
-        },
         {
           "title": "下周重磅日程：美非农、欧英央行决议、日本大选、伊朗局势、谷歌亚马逊AMD财报",
           "url": "https://wallstreetcn.com/articles/3764656",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时04分 ~ 23时33分]"
+          "appearance_count": 1,
+          "time_info": "00时38分"
         }
       ]
     }
