@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-02-02T23:43:13.500719+08:00",
-  "total_titles_processed": 1712,
+  "generated_at": "2026-02-03T00:51:50.216920+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "下周重磅日程：美非农、欧英央行决议、日本大选、伊朗局势、谷歌亚马逊AMD财报",
-          "url": "https://wallstreetcn.com/articles/3764656",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时38分 ~ 19时42分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
