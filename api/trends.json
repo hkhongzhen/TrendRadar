@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T04:46:43.947079+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-02-04T05:42:29.721812+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时42分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "法院文件显示，美国就谷歌搜索反垄断案提起上诉。",
+          "url": "https://flash.jin10.com/detail/20260204045424029800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         }
       ]
     },
@@ -44,8 +55,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时42分]"
         }
       ]
     }
