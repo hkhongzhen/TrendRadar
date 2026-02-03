@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T10:42:56.981506+08:00",
-  "total_titles_processed": 657,
+  "generated_at": "2026-02-03T12:53:09.791586+08:00",
+  "total_titles_processed": 816,
   "failed_sources": [],
   "trends": [
     {
@@ -28,6 +28,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ai变现 割韭菜",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "998元/月,斯奎奇猛割韭菜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350101&amp;topic_name=998%E5%85%83%2F%E6%9C%88%2C%E6%96%AF%E5%A5%8E%E5%A5%87%E7%8C%9B%E5%89%B2%E9%9F%AD%E8%8F%9C",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 12时53分]"
         }
       ]
     }
