@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T16:53:32.158867+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2026-02-04T17:54:36.755682+08:00",
+  "total_titles_processed": 1436,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时03分 ~ 16时53分]"
+          "appearance_count": 13,
+          "time_info": "[01时03分 ~ 17时54分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
@@ -57,11 +57,12 @@
             19,
             24,
             25,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时03分 ~ 16时53分]"
+          "appearance_count": 13,
+          "time_info": "[01时03分 ~ 17时54分]"
         }
       ]
     }
