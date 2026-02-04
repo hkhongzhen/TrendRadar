@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T07:35:27.441432+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-02-04T10:36:40.525778+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 07时35分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 10时36分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
@@ -53,11 +53,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350101&amp;topic_name=998%E5%85%83%2F%E6%9C%88%2C%E6%96%AF%E5%A5%8E%E5%A5%87%E7%8C%9B%E5%89%B2%E9%9F%AD%E8%8F%9C",
           "source": "贴吧",
           "ranks": [
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 07时35分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 10时36分]"
         }
       ]
     }
