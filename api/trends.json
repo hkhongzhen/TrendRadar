@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T00:59:05.023177+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-06T01:56:18.365895+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 01时56分]"
         },
         {
           "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 01时56分]"
         },
         {
           "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 01时56分]"
         }
       ]
     }
