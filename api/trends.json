@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-02-11T23:01:40.769613+08:00",
-  "total_titles_processed": 1718,
+  "generated_at": "2026-02-12T00:13:30.211370+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "蚂蚁开源全模态大模型Ming-Flash-Omni 2.0 性能对标Gemini 2.5 Pro",
-          "url": "https://wallstreetcn.com/livenews/3053495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "据Business Insider：谷歌业务部门正在向部分员工提供自愿离职方案。",
-          "url": "https://flash.jin10.com/detail/20260211023723066800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
