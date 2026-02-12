@@ -1,65 +1,7 @@
 {
-  "generated_at": "2026-02-12T22:55:08.913239+08:00",
-  "total_titles_processed": 1822,
+  "generated_at": "2026-02-13T00:01:50.329947+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "韩国IT巨头Kakao宣布将与谷歌合作，共同开发基于Android XR和Android移动体验的AI眼镜用户体验，并将最新AI技术融入其中。",
-          "url": "https://wallstreetcn.com/livenews/3054194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "谷歌的母公司 Alphabet 拟发行百年期债券，科技圈 30 年来首次，如何解读？",
-          "url": "https://www.zhihu.com/question/2004856222604551649",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "边问边买，谷歌将AI购物功能嵌入搜索与Gemini",
-          "url": "https://wallstreetcn.com/livenews/3053878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "漫剧 AI剧 原创短剧",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "德才股份：公司关注到近期资本市场对漫剧制作相关概念关注度较高，相关板块二级市场表现较为活跃，部分媒体报道公司控股孙公司福建奇想无限网络有限公司涉及上述相关概念。奇想无限成立于2025年12月5日，设立时间较短，目前正处于业务发展初期，实缴资本仅300万元，资产规模较小，人员较少，目前尚无相关业务订单及收入，未对公司经营业绩造成影响。",
-          "url": "https://wallstreetcn.com/livenews/3054453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时00分 ~ 19时51分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
