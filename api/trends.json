@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-14T03:01:09.108305+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-02-14T03:50:04.502824+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "谷歌 Gemini 3 Deep Think 深度思考大模型升级，相比前代有哪些提升？",
+          "url": "https://www.zhihu.com/question/2005579925827130176",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 03时50分]"
+        },
         {
           "title": "Gemini3深度思考模型重磅升级",
           "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83%E6%A8%A1%E5%9E%8B%E9%87%8D%E7%A3%85%E5%8D%87%E7%BA%A7",
