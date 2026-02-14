@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T13:52:20.109123+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-02-14T14:56:28.570089+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,19 @@
           "time_info": "[03时49分 ~ 05时43分]"
         },
         {
+          "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
+          "url": "https://www.cls.cn/detail/2290186",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 14时56分]"
+        },
+        {
           "title": "13F报告显示：Harvard Management四季度建仓做多Union Pacifit/isha以太坊信托ETF、以及Figma。 增持谷歌A、博通、台积电、Booking、以及Meta。 清仓Lighter & Wonder、PureCycle、以及Maze Therapeutics。 减持iShares比特币信托ETF、微软、亚马逊、英伟达、以及SPDR黄金Shares。 重仓资产包括iShares比特币信托ETF、谷歌A、SPDR黄金Shares、微软、以及Booking。",
           "url": "https://wallstreetcn.com/livenews/3055387",
           "source": "华尔街见闻-快讯",
@@ -65,18 +78,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时38分]"
-        },
-        {
-          "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
-          "url": "https://www.cls.cn/detail/2290186",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 13时52分]"
         },
         {
           "title": "13F报告显示：索罗斯四季度建仓做多Dayforce、New Gold等。 增持微软、台积电、艺电、亚马逊。 减持Snowflake、Invesco标普500 平权ETF。 清仓Aramark、KKR、iShares 7-10年期美国国债ETF等。 重仓亚马逊、谷歌A、Salesforce、TKO、微软。",
