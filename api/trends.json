@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-14T15:40:00.388933+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-02-14T16:41:53.536254+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "13F报告显示：Maverick Capital Ltd.四季度建仓做多谷歌C、应用材料、波士顿科学、Visa、以及Camden Property。 增持台积电、英伟达、GFL Environment、Carvana。 清仓Kenvue、美国银行、AMD、Danaher、以及Insmed。 减持Nubank、迪士尼、Merit Medical、Acadia Health、Sherwin-Williams。 重仓英伟达、微软、亚马逊、台积电、谷歌C。",
-          "url": "https://wallstreetcn.com/livenews/3055394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
           "url": "https://www.cls.cn/detail/2290186",
@@ -28,8 +17,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时47分 ~ 15时40分]"
+          "appearance_count": 6,
+          "time_info": "[12时47分 ~ 16时41分]"
+        },
+        {
+          "title": "13F报告显示：Maverick Capital Ltd.四季度建仓做多谷歌C、应用材料、波士顿科学、Visa、以及Camden Property。 增持台积电、英伟达、GFL Environment、Carvana。 清仓Kenvue、美国银行、AMD、Danaher、以及Insmed。 减持Nubank、迪士尼、Merit Medical、Acadia Health、Sherwin-Williams。 重仓英伟达、微软、亚马逊、台积电、谷歌C。",
+          "url": "https://wallstreetcn.com/livenews/3055394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         },
         {
           "title": "13F报告显示：巴克莱四季度增持美光科技、谷歌C、吉利德科学、应用材料、Kenvue。 减持英伟达、微软、摩根大通、百事、苹果。 重仓英伟达、微软、苹果、亚马逊、谷歌A。",
@@ -101,6 +101,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 00时57分]"
+        },
+        {
+          "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
+          "url": "https://wallstreetcn.com/livenews/3055478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "市场消息：苹果(AAPL.O)和谷歌(GOOG.O)再次在针对美国专利审查政策的法庭挑战中败诉。",
