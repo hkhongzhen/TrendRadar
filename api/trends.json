@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T00:39:38.761734+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-16T01:32:06.958997+08:00",
+  "total_titles_processed": 344,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
@@ -15,8 +15,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 01时32分]"
+        },
+        {
+          "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
+          "url": "https://www.zhihu.com/question/2004209286281205228",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 01时32分]"
         }
       ]
     }
