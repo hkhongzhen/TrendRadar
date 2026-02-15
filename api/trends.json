@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T21:05:40.986516+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2026-02-15T22:35:08.592323+08:00",
+  "total_titles_processed": 1227,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时49分 ~ 21时05分]"
+          "appearance_count": 16,
+          "time_info": "[10时49分 ~ 22时35分]"
         },
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
