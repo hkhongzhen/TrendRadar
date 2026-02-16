@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T21:19:13.130630+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-02-16T22:51:23.413636+08:00",
+  "total_titles_processed": 1454,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时39分 ~ 21时19分]"
+          "appearance_count": 22,
+          "time_info": "[00时39分 ~ 22时51分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -44,8 +45,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时44分 ~ 21时19分]"
+          "appearance_count": 4,
+          "time_info": "[19时44分 ~ 22时51分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
