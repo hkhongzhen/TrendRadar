@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T03:00:38.179766+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-02-20T03:44:23.973756+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 03时00分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时44分]"
         },
         {
           "title": "谷歌(GOOG.O)：将继续投资于人工智能驱动的防御措施，并为安卓开发者提供构建安全应用所需的工具。",
           "url": "https://flash.jin10.com/detail/20260220010548599800",
           "source": "金十数据",
           "ranks": [
-            26
+            26,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时00分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时00分 ~ 03时44分]"
         },
         {
           "title": "谷歌(GOOG.O)：推出安卓开发者验证机制以追究不良行为者责任。",
@@ -37,7 +39,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         }
