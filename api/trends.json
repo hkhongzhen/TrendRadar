@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-19T12:59:38.298495+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2026-02-19T14:09:21.721043+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "谷歌CEO皮查伊：今天在印度人工智能行动峰会上发表讲话，对我来说是一种极高的荣幸。人工智能能够改善数十亿人的生活，并解决科学领域中一些最为棘手的问题。人工智能所能带来的最佳成果并非是必然能够实现的。我们必须大胆地探索人工智能，以负责任的态度对待它，并携手共度这一时刻。",
+          "url": "https://flash.jin10.com/detail/20260219133402090800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
         {
           "title": "谷歌：Lyria 3已在美国上线，并正向其他国家的YouTube创作者推广。",
           "url": "https://flash.jin10.com/detail/20260219000628825800",
