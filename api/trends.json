@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T21:02:29.097457+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-02-21T22:33:55.471199+08:00",
+  "total_titles_processed": 1400,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             7,
             5,
             9,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时32分 ~ 21时02分]"
+          "appearance_count": 13,
+          "time_info": "[10时32分 ~ 22时33分]"
         },
         {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
