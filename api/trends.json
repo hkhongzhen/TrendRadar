@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T15:01:19.070072+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2026-02-22T15:44:12.802266+08:00",
+  "total_titles_processed": 833,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时38分 ~ 15时01分]"
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 15时44分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -30,11 +30,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时45分 ~ 15时01分]"
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 15时44分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
