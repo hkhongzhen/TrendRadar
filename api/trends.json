@@ -1,63 +1,7 @@
 {
-  "generated_at": "2026-02-22T23:33:05.935229+08:00",
-  "total_titles_processed": 1279,
+  "generated_at": "2026-02-23T00:39:26.199962+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
-          "url": "https://wallstreetcn.com/articles/3765938",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时45分 ~ 17时39分]"
-        },
-        {
-          "title": "实测Gemini 3.1 Pro",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            10,
-            9,
-            8,
-            12,
-            6,
-            11,
-            14,
-            16,
-            17,
-            21,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时38分 ~ 23时33分]"
-        },
-        {
-          "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
-          "url": "https://wallstreetcn.com/articles/3765927",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
