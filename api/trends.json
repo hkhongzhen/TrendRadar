@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T03:52:30.617930+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-02-26T04:43:03.720250+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时52分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时43分]"
         },
         {
           "title": "亚马逊、谷歌、甲骨文将签署数据中心协议。（福克斯新闻）",
@@ -47,11 +48,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时52分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时43分]"
         },
         {
           "title": "谷歌：谷歌Pixel设备上的电话诈骗检测功能现已在美国、澳大利亚、加拿大、印度、爱尔兰和英国上线。",
