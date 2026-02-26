@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T14:03:49.838381+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-02-26T15:55:14.557254+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "谷歌：Chat现在成为Gemini APP的一个数据源。",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 04时43分]"
+        },
+        {
+          "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
+          "url": "https://www.cls.cn/detail/2295271",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 15时55分]"
         },
         {
           "title": "谷歌：谷歌Pixel设备上的电话诈骗检测功能现已在美国、澳大利亚、加拿大、印度、爱尔兰和英国上线。",
