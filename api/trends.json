@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T07:37:42.621153+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2026-02-27T10:37:33.397978+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "谷歌正就TPU租赁合资事宜进行洽谈；谷歌已与投资基金签署协议，将成立TPU租赁合资企业。（The Information）",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -69,7 +69,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -92,9 +92,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
+          "url": "https://www.cls.cn/detail/2296526",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "谷歌公司在谷歌翻译中推出基于人工智能（AI）的功能。 谷歌与Mass. AI启动新款训练试点。",
@@ -128,6 +139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "谷歌(GOOG.O)和OpenAI的员工正在推动限制军事人工智能。",
+          "url": "https://flash.jin10.com/detail/20260227094411984800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "谷歌：谷歌翻译App在美国和印度上线AI驱动的新功能，网页版也将很快推出。",
