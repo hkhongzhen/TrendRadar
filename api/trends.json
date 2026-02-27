@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T13:58:02.044558+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2026-02-27T15:06:41.255896+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "谷歌正就TPU租赁合资事宜进行洽谈；谷歌已与投资基金签署协议，将成立TPU租赁合资企业。（The Information）",
@@ -82,8 +82,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时37分 ~ 13时58分]"
+          "appearance_count": 5,
+          "time_info": "[10时37分 ~ 15时06分]"
         },
         {
           "title": "谷歌推出 Nano Banana 2，有哪些亮点值得关注？",
@@ -121,13 +121,24 @@
           "time_info": "07时37分"
         },
         {
+          "title": "谷歌的“豆包手机”来了？",
+          "url": "https://news.ifeng.com/c/8r5Hb8yN4Fm",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
           "title": "韩国批准谷歌的地图数据出口申请。",
           "url": "https://flash.jin10.com/detail/20260227130247973800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -160,7 +171,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
