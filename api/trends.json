@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-02-28T23:32:03.633396+08:00",
-  "total_titles_processed": 2126,
+  "generated_at": "2026-03-01T00:35:16.330625+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "三星之后是苹果！谷歌Gemini智能体API优先 AI手机入口之争将破局？",
-          "url": "https://www.cls.cn/detail/2297724",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时49分 ~ 15时33分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
