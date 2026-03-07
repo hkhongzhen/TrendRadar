@@ -1,88 +1,8 @@
 {
-  "generated_at": "2026-03-07T23:31:43.559514+08:00",
-  "total_titles_processed": 1719,
+  "generated_at": "2026-03-08T00:36:28.152702+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "为什么有的程序员一聊到 Vibe Coding 让 「文科生」接触到了编程会「破防」？",
-          "url": "https://www.zhihu.com/question/2012896324622775081",
-          "source": "知乎",
-          "ranks": [
-            14,
-            10,
-            8,
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时39分 ~ 07时35分]"
-        },
-        {
-          "title": "继微软之后，谷歌公司也告诉用户们：在被特朗普政府封杀的领域之外，Anthropic仍然可用。",
-          "url": "https://wallstreetcn.com/livenews/3065426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时56分 ~ 04时39分]"
-        },
-        {
-          "title": "谷歌：Anthropic在国防工作之外仍然可用。",
-          "url": "https://flash.jin10.com/detail/20260307023959999800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 03时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "一人公司 个人IP 超级个体",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "“一人公司”兴起，如何长远发展？委员建议建立专属孵化通道",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712974",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            11,
-            15,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时36分 ~ 19时27分]"
-        },
-        {
-          "title": "你怎么看待超级个体，超级个体是不是未来趋势？",
-          "url": "https://www.zhihu.com/question/658995948",
-          "source": "知乎",
-          "ranks": [
-            20,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时39分 ~ 07时35分]"
-        }
-      ]
-    },
     {
       "keyword_group": "漫剧 AI剧 原创短剧",
       "match_count": 1,
@@ -92,13 +12,11 @@
           "url": "https://www.zhihu.com/question/2004583095244911914",
           "source": "知乎",
           "ranks": [
-            20,
-            17,
-            19
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时52分 ~ 23时31分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         }
       ]
     }
