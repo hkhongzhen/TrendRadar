@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T16:39:44.035339+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2026-03-07T17:36:45.143305+08:00",
+  "total_titles_processed": 1334,
   "failed_sources": [],
   "trends": [
     {
@@ -65,8 +65,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时36分 ~ 16时39分]"
+          "appearance_count": 10,
+          "time_info": "[06时36分 ~ 17时36分]"
         },
         {
           "title": "你怎么看待超级个体，超级个体是不是未来趋势？",
@@ -96,8 +96,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 16时39分]"
+          "appearance_count": 3,
+          "time_info": "[14时52分 ~ 17时36分]"
         }
       ]
     }
