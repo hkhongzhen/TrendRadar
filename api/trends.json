@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-03-09T22:59:33.690206+08:00",
-  "total_titles_processed": 1801,
+  "generated_at": "2026-03-10T00:07:43.989164+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "一人公司 个人IP 超级个体",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“龙虾”狂欢③深圳龙岗拟推“龙虾十条”，“一人公司”项目最高1000万元股权投资支持",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32728871",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18,
-            17,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时53分 ~ 21时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "漫剧 AI剧 原创短剧",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价知乎创始人周源 2026 年的提案《AI 漫剧侵权速度远超维权，应建立快速处置绿色通道》？",
-          "url": "https://www.zhihu.com/question/2013698168039166947",
-          "source": "知乎",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时58分 ~ 21时19分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
