@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T18:00:59.217637+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2026-03-09T18:58:19.446762+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,25 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时53分 ~ 18时00分]"
+          "appearance_count": 6,
+          "time_info": "[15时53分 ~ 18时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "漫剧 AI剧 原创短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价知乎创始人周源 2026 年的提案《AI 漫剧侵权速度远超维权，应建立快速处置绿色通道》？",
+          "url": "https://www.zhihu.com/question/2013698168039166947",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         }
       ]
     }
