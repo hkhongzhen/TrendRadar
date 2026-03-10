@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T17:54:23.146884+08:00",
-  "total_titles_processed": 1571,
+  "generated_at": "2026-03-10T18:51:13.000898+08:00",
+  "total_titles_processed": 1662,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             6,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时50分 ~ 17时54分]"
+          "appearance_count": 5,
+          "time_info": "[15时50分 ~ 18时51分]"
         },
         {
           "title": "常熟下场“养龙虾”：对“一人公司”最高拟予600万元支持",
