@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-13T15:04:16.339773+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-03-13T16:52:08.695085+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "漫剧 AI剧 原创短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
+          "url": "https://www.zhihu.com/question/2012836051480178728",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 16时52分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
