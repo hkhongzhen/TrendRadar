@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-03-15T23:36:15.243679+08:00",
-  "total_titles_processed": 1406,
+  "generated_at": "2026-03-16T00:39:57.116702+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "内测输给Gemini，还套壳？！Meta千亿自研大模型遭延期",
-          "url": "https://wallstreetcn.com/articles/3767525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时12分 ~ 16时47分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
