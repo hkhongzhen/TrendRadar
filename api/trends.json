@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T16:59:55.179998+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2026-03-18T18:06:04.099233+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
@@ -44,7 +44,7 @@
     },
     {
       "keyword_group": "一人公司 个人IP 超级个体",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "一人公司爆火银行坐不住了",
@@ -59,6 +59,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时11分 ~ 07时39分]"
+        },
+        {
+          "title": "“一人公司”为什么火了",
+          "url": "https://www.toutiao.com/trending/7618466969360010790/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 18时06分]"
         }
       ]
     }
