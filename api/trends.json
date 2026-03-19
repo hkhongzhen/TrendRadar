@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T10:48:04.631109+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-03-19T13:02:15.506299+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
@@ -28,6 +28,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "漫剧 AI剧 原创短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "微短剧专业学生制作AI漫剧1分钟100元",
+          "url": "https://www.toutiao.com/trending/7617807310119288875/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         }
       ]
     }
