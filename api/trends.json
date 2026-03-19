@@ -1,54 +1,7 @@
 {
-  "generated_at": "2026-03-19T22:56:24.990486+08:00",
-  "total_titles_processed": 1890,
+  "generated_at": "2026-03-20T00:02:23.538250+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "市场消息：桥水基金首席科学家兼人工智能负责人Jasjeet Sekhon将加入谷歌DeepMind，出任首席战略官。Sekhon也将加入桥水董事会。",
-          "url": "https://flash.jin10.com/detail/20260319065232382800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "谷歌公司与Stitch推出Vibe Design。",
-          "url": "https://wallstreetcn.com/livenews/3072623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "漫剧 AI剧 原创短剧",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "微短剧专业学生制作AI漫剧1分钟100元",
-          "url": "https://www.toutiao.com/trending/7617807310119288875/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 14时07分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
