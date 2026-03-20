@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-03-20T23:52:28.720706+08:00",
-  "total_titles_processed": 1971,
+  "generated_at": "2026-03-21T00:54:28.465058+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Gemini SpaceX Station四季度营收6030万美元，分析师预期5570万美元。",
-          "url": "https://wallstreetcn.com/livenews/3073558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时42分]"
-        },
-        {
-          "title": "谷歌开始测试Gemini Mac版应用，以与ChatGPT和Claude竞争。",
-          "url": "https://flash.jin10.com/detail/20260320033049642800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
