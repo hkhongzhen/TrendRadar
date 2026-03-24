@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T23:06:28.463203+08:00",
-  "total_titles_processed": 1852,
+  "generated_at": "2026-03-25T01:07:33.987129+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
@@ -8,43 +8,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "如何看待谷歌逐步收紧安卓应用侧载计划？",
-          "url": "https://www.zhihu.com/question/2019018192186557023",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "谷歌旗下Wing将在旧金山湾区开始无人机送货服务",
-          "url": "https://wallstreetcn.com/livenews/3075306",
+          "title": "谷歌公司：开源安卓Auto OS SDV平台。",
+          "url": "https://wallstreetcn.com/livenews/3076088",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "一人公司 个人IP 超级个体",
-      "match_count": 1,
-      "titles": [
+          "time_info": "01时07分"
+        },
         {
-          "title": "2026全球开发者先锋大会本周将开幕 SE（超级创业者）、OPC（一人公司）等受关注",
-          "url": "https://flash.jin10.com/detail/20260324135531645800",
-          "source": "金十数据",
+          "title": "谷歌公司：在谷歌电视（Google TV）新增三款Gemini功能。",
+          "url": "https://wallstreetcn.com/livenews/3076087",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "01时07分"
         }
       ]
     }
