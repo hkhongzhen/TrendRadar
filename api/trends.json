@@ -1,55 +1,22 @@
 {
-  "generated_at": "2026-03-25T23:07:55.124292+08:00",
-  "total_titles_processed": 1884,
+  "generated_at": "2026-03-26T01:11:56.597804+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "市场消息：印度阿达尼集团在数据中心热潮中寻求与Meta公司、谷歌建立合作关系。",
-          "url": "https://flash.jin10.com/detail/20260325192657670800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时47分"
-        },
-        {
-          "title": "谷歌公司：开源安卓Auto OS SDV平台。",
-          "url": "https://wallstreetcn.com/livenews/3076088",
+          "title": "谷歌公司推出Lyria 3 Pro，支持更具结构意识的长音频处理。",
+          "url": "https://wallstreetcn.com/livenews/3076804",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "谷歌公司：在谷歌电视（Google TV）新增三款Gemini功能。",
-          "url": "https://wallstreetcn.com/livenews/3076087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "Anduril、Palantir向美国总统特朗普提倡的“金穹”反导系统提供软件支持。 这两家公司是“金穹”软件团体的一部分。 谷歌公司参与投资的Aalyria Tech和Scale AI也对此有贡献。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3076237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时47分"
+          "time_info": "01时11分"
         }
       ]
     }
