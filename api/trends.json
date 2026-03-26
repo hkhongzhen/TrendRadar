@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T05:38:17.059686+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-03-27T06:38:28.120867+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 05时38分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 06时38分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅迅速扩大至4.3%。",
