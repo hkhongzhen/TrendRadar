@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T06:38:28.120867+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-03-27T07:40:10.943329+08:00",
+  "total_titles_processed": 672,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3768419",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 06时38分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 07时40分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅迅速扩大至4.3%。",
