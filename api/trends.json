@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T21:21:11.387503+08:00",
-  "total_titles_processed": 1689,
+  "generated_at": "2026-03-27T22:58:30.138781+08:00",
+  "total_titles_processed": 1824,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             3,
             17,
             16,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时54分 ~ 21时21分]"
+          "appearance_count": 10,
+          "time_info": "[10时54分 ~ 22时58分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -32,11 +33,27 @@
             8,
             18,
             20,
-            16
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时13分 ~ 22时58分]"
+        },
+        {
+          "title": "谷歌TurboQuant论文解读",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            9,
+            15,
+            14,
+            23
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[13时13分 ~ 21时21分]"
+          "time_info": "[15时18分 ~ 22时58分]"
         },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -48,20 +65,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时11分 ~ 04时42分]"
-        },
-        {
-          "title": "谷歌TurboQuant论文解读",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            9,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时18分 ~ 21时21分]"
         },
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
