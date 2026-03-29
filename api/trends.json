@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T15:14:13.058338+08:00",
-  "total_titles_processed": 889,
+  "generated_at": "2026-03-29T16:53:37.966419+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
@@ -60,11 +60,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时17分 ~ 15时14分]"
+          "appearance_count": 6,
+          "time_info": "[11时17分 ~ 16时53分]"
         },
         {
           "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
@@ -75,8 +76,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时46分 ~ 15时14分]"
+          "appearance_count": 4,
+          "time_info": "[13时46分 ~ 16时53分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
@@ -86,8 +87,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时46分 ~ 15时14分]"
+          "appearance_count": 4,
+          "time_info": "[13时46分 ~ 16时53分]"
         }
       ]
     },
