@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T19:36:13.636216+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2026-03-29T21:10:11.650040+08:00",
+  "total_titles_processed": 1240,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时46分 ~ 19时36分]"
+          "appearance_count": 11,
+          "time_info": "[13时46分 ~ 21时10分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -27,11 +27,12 @@
             3,
             13,
             20,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时17分 ~ 19时36分]"
+          "appearance_count": 13,
+          "time_info": "[11时17分 ~ 21时10分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -81,6 +82,17 @@
           "time_info": "[00时42分 ~ 07时38分]"
         },
         {
+          "title": "新算法公布,谷歌干崩股市",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时35分 ~ 21时10分]"
+        },
+        {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
           "url": "https://www.zhihu.com/question/2021000785224287940",
           "source": "知乎",
@@ -90,17 +102,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时46分 ~ 16时53分]"
-        },
-        {
-          "title": "新算法公布,谷歌干崩股市",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 19时36分]"
         }
       ]
     },
