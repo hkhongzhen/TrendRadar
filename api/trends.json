@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T11:20:53.290008+08:00",
-  "total_titles_processed": 759,
+  "generated_at": "2026-03-30T16:24:20.442660+08:00",
+  "total_titles_processed": 976,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             14,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 11时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 16时24分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -28,11 +29,12 @@
             21,
             22,
             19,
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 11时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 16时24分]"
         }
       ]
     }
