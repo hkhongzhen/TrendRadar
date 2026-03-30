@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T21:55:49.396978+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2026-03-30T23:11:35.548096+08:00",
+  "total_titles_processed": 1517,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时42分 ~ 21时55分]"
+          "appearance_count": 18,
+          "time_info": "[00时42分 ~ 23时11分]"
         },
         {
           "title": "带崩全球存储股的谷歌论文陷学术争议，中国学者指其“严重失实”且“知错不改”：使用了我们的方法，但刻意回避相似性",
@@ -58,7 +58,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         }
