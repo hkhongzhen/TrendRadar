@@ -1,53 +1,7 @@
 {
-  "generated_at": "2026-04-01T23:13:28.864313+08:00",
-  "total_titles_processed": 1748,
+  "generated_at": "2026-04-02T01:08:29.377963+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "币圈“量子末日”恐加速到来？谷歌预警逃生时间表：2029年！",
-          "url": "https://www.cls.cn/detail/2331479",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 17时16分]"
-        },
-        {
-          "title": "谷歌发布论文，在2029年期限前就量子风险向加密行业发出警告",
-          "url": "https://wallstreetcn.com/livenews/3080310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "一人公司 个人IP 超级个体",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "男子靠AI开一人公司年营收达150万",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%9D%A0AI%E5%BC%80%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E5%B9%B4%E8%90%A5%E6%94%B6%E8%BE%BE150%E4%B8%87%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
