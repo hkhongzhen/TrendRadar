@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-04-03T22:52:21.653182+08:00",
-  "total_titles_processed": 1713,
+  "generated_at": "2026-04-03T23:45:25.902780+08:00",
+  "total_titles_processed": 1797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
       "match_count": 7,
       "titles": [
+        {
+          "title": "谷歌官方发布最新模型Gemma4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            4,
+            16,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时03分 ~ 23时45分]"
+        },
         {
           "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
           "url": "https://www.zhihu.com/question/2023204569811828949",
@@ -19,20 +34,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时52分 ~ 15时20分]"
-        },
-        {
-          "title": "谷歌官方发布最新模型Gemma4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            4,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时03分 ~ 22时52分]"
         },
         {
           "title": "谷歌最新模型Gemma4发布",
@@ -86,7 +87,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         }
