@@ -1,46 +1,7 @@
 {
-  "generated_at": "2026-04-04T23:39:47.015243+08:00",
-  "total_titles_processed": 1584,
+  "generated_at": "2026-04-05T00:44:47.877702+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌官方发布最新模型Gemma4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            18,
-            22,
-            15,
-            19,
-            17,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时51分 ~ 15时52分]"
-        },
-        {
-          "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
-          "url": "https://wallstreetcn.com/livenews/3082305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            12,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时58分 ~ 05时41分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
