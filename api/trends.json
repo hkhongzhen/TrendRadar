@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T19:53:12.625399+08:00",
-  "total_titles_processed": 1229,
+  "generated_at": "2026-04-06T21:24:28.175106+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E2%80%9C%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E2%80%9D%E4%BC%B0%E5%80%BC%E8%B6%853000%E4%B8%87",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 19时53分]"
+          "appearance_count": 3,
+          "time_info": "[19时52分 ~ 21时24分]"
         },
         {
           "title": "小伙“一人公司”估值超3000万",
