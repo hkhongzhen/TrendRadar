@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T07:43:16.221888+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2026-04-07T10:55:39.652518+08:00",
+  "total_titles_processed": 866,
   "failed_sources": [],
   "trends": [
     {
@@ -81,11 +81,12 @@
             13,
             10,
             8,
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时55分 ~ 07时43分]"
+          "appearance_count": 9,
+          "time_info": "[01时55分 ~ 10时55分]"
         },
         {
           "title": "小伙“一人公司”估值超3000万",
