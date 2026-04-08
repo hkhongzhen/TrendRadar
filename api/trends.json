@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-04-08T23:18:21.701170+08:00",
-  "total_titles_processed": 1800,
+  "generated_at": "2026-04-09T01:12:50.376617+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "谷歌 google gemini vibe coding",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Meta发布新AI模型，力图追赶谷歌和OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3084479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "谷歌云：推出GKE云存储FUSE配置文件，旨在自动化性能调优，加速AI/ML工作负载的数据访问。",
+          "url": "https://flash.jin10.com/detail/20260409004336024800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
