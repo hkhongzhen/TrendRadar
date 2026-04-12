@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-04-12T23:42:35.165477+08:00",
-  "total_titles_processed": 1504,
+  "generated_at": "2026-04-13T00:50:16.399674+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "你如何证明自己用 vibe coding 比之前古法编程效率高？",
-          "url": "https://www.zhihu.com/question/2018018595418980371",
-          "source": "知乎",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时38分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
