@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T06:01:23.803618+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-04-16T06:56:32.381804+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时01分]"
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 06时56分]"
         },
         {
           "title": "报道：谷歌母公司Alphabet料将因SpaceX投资而获得1000亿美元“意外之财”",
