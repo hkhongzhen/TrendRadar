@@ -1,44 +1,22 @@
 {
-  "generated_at": "2026-04-15T23:16:39.203093+08:00",
-  "total_titles_processed": 1787,
+  "generated_at": "2026-04-16T01:13:44.776352+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "标普500指数初步收涨1.1%，电信板块涨3%，可选消费板块涨2.4%，科技板块涨1.4%，能源板块跌2.1%。 纳斯达克100指数初步收涨1.8%，成分股中，美光科技初步收涨8.6%，西部数据涨4.5%，Meta涨4.4%，AppLovin、亚马逊、Strategy、希捷科技、谷歌AAMD、特斯拉涨超3%，Adobe跌1.9%，英特尔跌2.4%，特许通讯跌4.3%。",
-          "url": "https://wallstreetcn.com/livenews/3087951",
+          "title": "谷歌公司：Gemini现在上架苹果公司Mac。",
+          "url": "https://wallstreetcn.com/livenews/3088660",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "谷歌：在Chrome中推出“技能”（Skills）功能，用于保存AI提示词。",
-          "url": "https://flash.jin10.com/detail/20260415010401722800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        },
-        {
-          "title": "Gitlab宣布，与谷歌云合作。",
-          "url": "https://wallstreetcn.com/livenews/3087967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
+          "time_info": "01时13分"
         }
       ]
     }
