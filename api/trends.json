@@ -1,67 +1,7 @@
 {
-  "generated_at": "2026-04-17T23:02:21.516120+08:00",
-  "total_titles_processed": 1673,
+  "generated_at": "2026-04-18T00:59:58.346280+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
-          "url": "https://flash.jin10.com/detail/20260417005843333800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "NiSource美股盘后涨3.7%，该公司宣布与谷歌母公司Alphabet附属公司达成长期能源供应协议，用于后者在美国印第安纳州北部开发和运营大规模数据中心。",
-          "url": "https://wallstreetcn.com/livenews/3089580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时53分 ~ 06时51分]"
-        },
-        {
-          "title": "OpenAI推出旨在药物研发的新AI模型，向谷歌发起挑战",
-          "url": "https://wallstreetcn.com/livenews/3089544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "一人公司 个人IP 超级个体",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“一人公司”迎来大爆发",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E2%80%9D%E8%BF%8E%E6%9D%A5%E5%A4%A7%E7%88%86%E5%8F%91",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 16时48分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
