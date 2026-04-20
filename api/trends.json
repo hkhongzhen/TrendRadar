@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-21T05:55:07.221892+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-04-21T06:53:34.898407+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "谷歌 google gemini vibe coding",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌：向在亚太地区向用户扩展Gemini在Chrome中的应用。",
+          "url": "https://flash.jin10.com/detail/20260421060257230800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
