@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T05:55:15.574026+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-04-25T06:48:11.863062+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时55分]"
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 06时48分]"
         },
         {
           "title": "Anthropic：谷歌(GOOG.O)今天将按公司当前估值投资100亿美元，另有300亿美元的投资将取决于是否达成特定的业绩里程碑。",
