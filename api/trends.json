@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-25T15:28:20.865974+08:00",
-  "total_titles_processed": 927,
+  "generated_at": "2026-04-25T17:02:32.618820+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
       "match_count": 5,
       "titles": [
+        {
+          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
+          "url": "https://wallstreetcn.com/articles/3770859",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 17时02分]"
+        },
         {
           "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
           "url": "https://wallstreetcn.com/livenews/3094294",
@@ -19,18 +31,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时57分 ~ 06时48分]"
-        },
-        {
-          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
-          "url": "https://wallstreetcn.com/articles/3770859",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 15时28分]"
         },
         {
           "title": "Anthropic：谷歌(GOOG.O)今天将按公司当前估值投资100亿美元，另有300亿美元的投资将取决于是否达成特定的业绩里程碑。",
