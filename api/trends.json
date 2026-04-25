@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T17:02:32.618820+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2026-04-25T18:51:23.522825+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 17时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 18时51分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
