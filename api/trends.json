@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T22:54:03.622400+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2026-04-26T23:51:06.603763+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "url": "https://www.zhihu.com/question/2029541889469096343",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时53分 ~ 22时54分]"
+          "appearance_count": 4,
+          "time_info": "[22时53分 ~ 23时51分]"
         },
         {
           "title": "谷歌云CEO：自研TPU构筑竞争护城河，第八代芯片即将发布，外部需求已超供给上限",
