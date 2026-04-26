@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T07:46:56.853933+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-04-26T11:36:50.164833+08:00",
+  "total_titles_processed": 715,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 07时46分]"
+        },
+        {
+          "title": "谷歌云CEO：自研TPU构筑竞争护城河，第八代芯片即将发布，外部需求已超供给上限",
+          "url": "https://wallstreetcn.com/articles/3770884",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         }
       ]
     }
