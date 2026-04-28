@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-29T00:58:17.486321+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-04-29T02:24:51.170420+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "谷歌 google gemini vibe coding",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌突然退出美国国防部无人机蜂群技术竞标",
+          "url": "https://flash.jin10.com/detail/20260429012913081800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
