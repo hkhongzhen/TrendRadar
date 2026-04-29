@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-04-29T08:01:25.075262+08:00",
-  "total_titles_processed": 652,
-  "failed_sources": [
-    "cls-hot"
-  ],
+  "generated_at": "2026-04-29T11:57:41.746506+08:00",
+  "total_titles_processed": 854,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
