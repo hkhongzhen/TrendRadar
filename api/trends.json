@@ -1,44 +1,22 @@
 {
-  "generated_at": "2026-04-29T22:14:44.358323+08:00",
-  "total_titles_processed": 1473,
+  "generated_at": "2026-04-30T00:55:00.095333+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 3,
+      "keyword_group": "一人公司 个人IP 超级个体",
+      "match_count": 1,
       "titles": [
         {
-          "title": "据CNBC记者：美国国防部的人工智能负责人确认，该部门正在扩大对谷歌Gemini人工智能模型的使用。",
-          "url": "https://flash.jin10.com/detail/20260429054900131800",
-          "source": "金十数据",
+          "title": "东方甄选为什么没留住个人IP",
+          "url": "https://www.toutiao.com/trending/7634173279023926822/",
+          "source": "今日头条",
           "ranks": [
-            6
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "谷歌突然退出美国国防部无人机蜂群技术竞标",
-          "url": "https://flash.jin10.com/detail/20260429012913081800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "谷歌公司签署协议，允许该公司技术被应用到（美国战争部那些）机密的军事工作。",
-          "url": "https://wallstreetcn.com/livenews/3096012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 00时55分]"
         }
       ]
     }
