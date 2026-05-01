@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T12:07:13.839156+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-05-01T15:29:29.418880+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 12时07分]"
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 15时29分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 12时07分]"
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 15时29分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -96,11 +96,12 @@
           "url": "https://www.zhihu.com/question/2033115543276930640",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 15时29分]"
         },
         {
           "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
