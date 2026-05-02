@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T07:02:15.791869+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-05-02T11:31:27.247135+08:00",
+  "total_titles_processed": 724,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[01时03分 ~ 11时31分]"
         },
         {
           "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
@@ -36,11 +37,12 @@
           "url": "https://www.cls.cn/detail/2361634",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[01时03分 ~ 11时31分]"
         },
         {
           "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
@@ -48,11 +50,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[01时03分 ~ 11时31分]"
         },
         {
           "title": "美国国会山成员们下周将会见科技巨头们的代表。 英伟达、谷歌公司、Anthropic、Meta、特斯拉、英特尔、应用材料的代表们将与议员们见面。（Axios）",
