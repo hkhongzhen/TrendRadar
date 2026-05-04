@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-05-04T22:18:33.835738+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2026-05-05T00:53:36.947924+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "一人公司 个人IP 超级个体",
+      "keyword_group": "谷歌 google gemini vibe coding",
       "match_count": 1,
       "titles": [
         {
-          "title": "一人公司值得投资吗",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E5%80%BC%E5%BE%97%E6%8A%95%E8%B5%84%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "谷歌：Chrome Enterprise为医疗保健行业推出新的集成功能。",
+          "url": "https://flash.jin10.com/detail/20260505001001920800",
+          "source": "金十数据",
           "ranks": [
-            29,
-            14
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时46分 ~ 17时27分]"
+          "appearance_count": 1,
+          "time_info": "00时53分"
         }
       ]
     }
