@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T21:47:43.712806+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2026-05-16T23:03:06.643386+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时27分 ~ 21时47分]"
+          "appearance_count": 8,
+          "time_info": "[14时27分 ~ 23时03分]"
         },
         {
           "title": "阿克曼：出售谷歌股票并非做空公司。我们长期非常看好Alphabet。",
