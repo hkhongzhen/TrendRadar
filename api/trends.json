@@ -1,35 +1,22 @@
 {
-  "generated_at": "2026-05-17T23:03:12.395203+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2026-05-18T01:04:28.180244+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
-          "url": "https://wallstreetcn.com/articles/3772402",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 08时01分]"
-        },
         {
           "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
           "url": "https://wallstreetcn.com/articles/3772335",
           "source": "华尔街见闻",
           "ranks": [
-            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时44分 ~ 23时03分]"
+          "appearance_count": 1,
+          "time_info": "01时04分"
         }
       ]
     }
