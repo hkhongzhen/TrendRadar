@@ -1,33 +1,22 @@
 {
-  "generated_at": "2026-05-18T22:34:42.306937+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-05-19T01:33:16.906293+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
-          "url": "https://wallstreetcn.com/articles/3772335",
-          "source": "华尔街见闻",
+          "title": "戴尔：谷歌与戴尔合作，在戴尔PowerEdge XE9780服务器上通过谷歌分布式云推出Gemini 3闪存模型。",
+          "url": "https://flash.jin10.com/detail/20260519010215789800",
+          "source": "金十数据",
           "ranks": [
-            3
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 08时02分]"
-        },
-        {
-          "title": "本周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
-          "url": "https://wallstreetcn.com/articles/3772335",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 18时20分]"
+          "appearance_count": 1,
+          "time_info": "01时33分"
         }
       ]
     }
