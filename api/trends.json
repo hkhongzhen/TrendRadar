@@ -1,45 +1,50 @@
 {
-  "generated_at": "2026-05-19T20:15:59.672082+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2026-05-20T00:27:28.801900+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "九大看点梳理！谷歌I/O大会前瞻：“AI全栈霸主”能否再度惊艳华尔街？",
-          "url": "https://www.cls.cn/detail/2374982",
+          "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2375879",
           "source": "财联社热门",
           "ranks": [
-            7,
-            5
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 20时15分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
-          "title": "周一（5月18日），美股人工智能（AI）赢家指数跌3.21%，报377.39点。 成分股Nebius集团收跌9.13%，摩丁制造MOD跌8.90%，Lumentum跌8.83%跌幅第三大，康宁公司、美光科技进入跌幅前十大，在收涨的七只成分股中，谷歌A、亚马逊涨幅最小，微软涨0.38%，Palantir涨0.86%，Arm控股涨2.85%。",
-          "url": "https://wallstreetcn.com/livenews/3105604",
+          "title": "谷歌母公司Alphabet的投资者们在谷歌广告诉讼中获得集体诉讼地位。（彭博法律Blaw）",
+          "url": "https://wallstreetcn.com/livenews/3106144",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时18分"
-        },
+          "time_info": "00时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "一人公司 个人IP 超级个体",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "戴尔：谷歌与戴尔合作，在戴尔PowerEdge XE9780服务器上通过谷歌分布式云推出Gemini 3闪存模型。",
-          "url": "https://flash.jin10.com/detail/20260519010215789800",
-          "source": "金十数据",
+          "title": "海南支持“一人公司” 最高奖800万",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E6%94%AF%E6%8C%81%E2%80%9C%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E2%80%9D+%E6%9C%80%E9%AB%98%E5%A5%96800%E4%B8%87",
+          "source": "百度热搜",
           "ranks": [
-            16
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时33分"
+          "time_info": "00时27分"
         }
       ]
     }
