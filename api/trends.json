@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-22T16:26:14.431253+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-05-22T19:50:15.462618+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "谷歌 google gemini vibe coding",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苹果谷歌英伟达，集体松了口气",
+          "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
