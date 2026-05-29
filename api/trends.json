@@ -1,58 +1,7 @@
 {
-  "generated_at": "2026-05-29T20:21:06.939261+08:00",
-  "total_titles_processed": 1193,
+  "generated_at": "2026-05-30T00:48:18.389504+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌云：Nano Banana 2和Nano Banana Pro已正式上线。",
-          "url": "https://wallstreetcn.com/livenews/3110860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "谷歌云：Nano Banana 2和Nano Banana Pro已正式上线。",
-          "url": "https://flash.jin10.com/detail/20260529001147406800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "据美国得克萨斯州车管局（DMV）网站：谷歌母公司Alphabet旗下Waymo已有577辆AVS、317辆Avride登记。 特斯拉有42辆车在美国得州被登记为无人驾驶出租车（Robotaxi）。",
-          "url": "https://wallstreetcn.com/livenews/3110968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "阿波罗推销360亿美元债务融资，旨在为Anthropic购买谷歌芯片",
-          "url": "https://wallstreetcn.com/livenews/3110939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
