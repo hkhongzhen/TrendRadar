@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-05-30T23:15:30.013044+08:00",
-  "total_titles_processed": 1366,
+  "generated_at": "2026-05-31T01:16:18.212176+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股七巨头收盘播报｜微软收涨超5.4%，5月份谷歌A涨21.6%",
-          "url": "https://wallstreetcn.com/livenews/3111630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 07时21分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
