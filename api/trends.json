@@ -1,48 +1,7 @@
 {
-  "generated_at": "2026-06-03T22:54:05.766203+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2026-06-04T02:51:27.498575+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
-          "url": "https://wallstreetcn.com/articles/3773607",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时46分 ~ 07时52分]"
-        },
-        {
-          "title": "800亿美元！谷歌启动史上最大规模股权融资，伯克希尔参投100亿美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33289350",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 12时50分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：从6月2日起，将更新美国预测市场政策，禁止在俄亥俄州投放预测市场合约及相关产品的广告。",
-          "url": "https://flash.jin10.com/detail/20260603022348534800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时46分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
