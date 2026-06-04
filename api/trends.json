@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-06-05T05:47:29.416117+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-06-05T07:15:18.843737+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
           "url": "https://wallstreetcn.com/articles/3773814",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 05时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 07时15分]"
+        },
+        {
+          "title": "据Business Insider：谷歌(GOOG.O)正悄然裁减其云部门员工。",
+          "url": "https://flash.jin10.com/detail/20260605064523592800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "谷歌计划投放3200万只蚊子",
