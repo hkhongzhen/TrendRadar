@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-06-04T12:44:59.146262+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2026-06-04T16:55:15.392783+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
+          "url": "https://wallstreetcn.com/articles/3773814",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 16时55分]"
+        },
+        {
+          "title": "欧洲软件和IT股票上涨，Nemetschek、Capgemini、思爱普、Temenos、Wolters Kluwer、Relx上涨3%至5%。",
+          "url": "https://flash.jin10.com/detail/20260604164607298800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
         {
           "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
           "url": "https://flash.jin10.com/detail/20260604051716270800",
@@ -19,15 +42,15 @@
           "time_info": "05时55分"
         },
         {
-          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
-          "url": "https://wallstreetcn.com/articles/3773814",
-          "source": "华尔街见闻",
+          "title": "谷歌(GOOG.O)：计划于今年夏天在部分欧盟成员国推出身份通行证。",
+          "url": "https://flash.jin10.com/detail/20260604163205003800",
+          "source": "金十数据",
           "ranks": [
-            8
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时44分"
+          "time_info": "16时55分"
         },
         {
           "title": "英国监管机构给谷歌AI搜索“立新规”",
@@ -36,7 +59,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
