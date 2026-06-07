@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T13:27:52.755170+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2026-06-07T17:25:46.010570+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             8,
             6,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时14分 ~ 13时27分]"
+          "appearance_count": 5,
+          "time_info": "[04时14分 ~ 17时25分]"
         },
         {
           "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
