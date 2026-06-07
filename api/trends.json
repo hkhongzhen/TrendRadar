@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T17:25:46.010570+08:00",
-  "total_titles_processed": 915,
+  "generated_at": "2026-06-07T19:54:02.523118+08:00",
+  "total_titles_processed": 1054,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "亮眼财报后股价大跌？博通CEO：永远不关心股价，死磕技术客户就不会跑，看好“博通-谷歌-Anthropic”铁三角",
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时14分 ~ 17时25分]"
+          "appearance_count": 7,
+          "time_info": "[04时14分 ~ 19时54分]"
         },
         {
           "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
@@ -34,6 +34,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时09分 ~ 13时27分]"
+        },
+        {
+          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
+          "url": "https://wallstreetcn.com/articles/3774034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 19时54分]"
         }
       ]
     },
