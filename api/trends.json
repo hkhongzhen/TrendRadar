@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T07:17:13.814687+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-06-09T12:05:22.477138+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "苹果软件主管克雷格·费德里吉：苹果最大的模型“AFM Cloud Pro”将运行在谷歌云基础设施上。",
@@ -30,6 +30,17 @@
           "time_info": "03时25分"
         },
         {
+          "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？",
+          "url": "https://www.zhihu.com/question/2047324900080051711",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
           "title": "苹果软件主管克雷格·费德里吉：苹果的私有云将使用三款由苹果自主研发的AI模型，这些模型是基于其与谷歌的合作开发的。",
           "url": "https://flash.jin10.com/detail/20260609031803675800",
           "source": "金十数据",
@@ -39,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "苹果软件主管克雷格·费德里吉：（谈苹果全新智能功能）我们的系统并非基于谷歌搜索。",
