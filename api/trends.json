@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T07:22:19.913701+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-06-10T07:24:38.539648+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 07时22分]"
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 07时24分]"
         },
         {
           "title": "谷歌(GOOG.O)为Anthropic350亿美元芯片交易提供兜底支持。在谷歌的协助下，Anthropic将在5个数据中心租赁芯片。",
