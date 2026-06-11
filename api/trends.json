@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T13:56:33.423641+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-06-11T18:49:03.301103+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
@@ -28,6 +28,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "漫剧 AI剧 原创短剧",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AI大神做漫剧真有一套",
+          "url": "https://www.douyin.com/hot/2530023",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 18时49分]"
         }
       ]
     }
