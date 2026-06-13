@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-13T22:13:18.956604+08:00",
-  "total_titles_processed": 1235,
+  "generated_at": "2026-06-14T00:20:11.920649+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "漫剧 AI剧 原创短剧",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "九鹭非香把七时吉祥重新做成AI剧了",
-          "url": "https://s.weibo.com/weibo?q=%E4%B9%9D%E9%B9%AD%E9%9D%9E%E9%A6%99%E6%8A%8A%E4%B8%83%E6%97%B6%E5%90%89%E7%A5%A5%E9%87%8D%E6%96%B0%E5%81%9A%E6%88%90AI%E5%89%A7%E4%BA%86&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
