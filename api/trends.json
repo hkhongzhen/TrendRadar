@@ -1,41 +1,33 @@
 {
-  "generated_at": "2026-06-15T20:29:38.987487+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-06-16T02:02:25.948978+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
-          "url": "https://wallstreetcn.com/articles/3774610",
-          "source": "华尔街见闻",
+          "title": "谷歌加强在美国阿拉巴马州的存在，2026-27年将投资15亿美元。 这笔资金将完全用于自家数据中心的电力与基础设施成本。",
+          "url": "https://wallstreetcn.com/livenews/3119817",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 13时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ai变现 割韭菜",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
         {
-          "title": "赵露思、王鹤棣等接连官宣演唱会，网友指责割韭菜，如何看待明星扎堆开跨界演唱会？",
-          "url": "https://www.zhihu.com/question/2048387442667778638",
-          "source": "知乎",
+          "title": "谷歌宣布2026年及2027年在美国阿拉巴马州投资15亿美元。",
+          "url": "https://flash.jin10.com/detail/20260616005215357800",
+          "source": "金十数据",
           "ranks": [
-            14,
-            9
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 20时29分]"
+          "appearance_count": 1,
+          "time_info": "02时02分"
         }
       ]
     }
