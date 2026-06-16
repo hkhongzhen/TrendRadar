@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-06-16T19:23:33.541944+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-06-17T01:07:11.516285+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌加强在美国阿拉巴马州的存在，2026-27年将投资15亿美元。 这笔资金将完全用于自家数据中心的电力与基础设施成本。",
-          "url": "https://wallstreetcn.com/livenews/3119817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "谷歌宣布2026年及2027年在美国阿拉巴马州投资15亿美元。",
-          "url": "https://flash.jin10.com/detail/20260616005215357800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
