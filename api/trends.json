@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-17T12:48:04.462103+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2026-06-17T17:54:27.816161+08:00",
+  "total_titles_processed": 912,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "谷歌 google gemini vibe coding",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "针对英国监管机构关于搜索业务的新规，谷歌(GOOG.O)表示将与英国竞争与市场管理局（CMA）开展建设性合作，以确保“能够为用户维持高质量的搜索体验”。",
+          "url": "https://flash.jin10.com/detail/20260617173014863800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://hkhongzhen.github.io/TrendRadar/img/news.jpg"
 }
