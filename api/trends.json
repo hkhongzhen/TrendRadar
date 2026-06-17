@@ -1,22 +1,33 @@
 {
-  "generated_at": "2026-06-17T21:46:18.138117+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-06-18T01:11:34.870753+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "针对英国监管机构关于搜索业务的新规，谷歌(GOOG.O)表示将与英国竞争与市场管理局（CMA）开展建设性合作，以确保“能够为用户维持高质量的搜索体验”。",
-          "url": "https://flash.jin10.com/detail/20260617173014863800",
+          "title": "据AXIOS网站：OpenAI创始人奥尔特曼与谷歌旗下Deepmind首席执行官哈萨比斯出席了人工智能会议。",
+          "url": "https://flash.jin10.com/detail/20260618005603439800",
           "source": "金十数据",
           "ranks": [
-            10
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时54分"
+          "time_info": "01时11分"
+        },
+        {
+          "title": "台积电产能告急！三星代工需求火热：谷歌、英伟达、AMD都来了…",
+          "url": "https://www.cls.cn/detail/2402553",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
         }
       ]
     }
