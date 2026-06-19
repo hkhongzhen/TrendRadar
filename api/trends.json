@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T00:35:09.177546+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-20T03:02:03.240023+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355258&amp;topic_name=Faker%E6%8B%8D%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E8%A1%80%E8%B5%9A7%E4%B8%AA%E4%BA%BF",
           "source": "贴吧",
           "ranks": [
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时02分]"
         }
       ]
     }
