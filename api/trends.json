@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T08:15:09.173723+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2026-06-23T13:08:12.568277+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2406155",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时14分 ~ 08时15分]"
+          "appearance_count": 4,
+          "time_info": "[08时14分 ~ 13时08分]"
         },
         {
           "title": "谷歌Deepmind与24A构建研究领域的合作伙伴。 谷歌公司已经投资该公司。",
