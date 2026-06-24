@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T16:26:48.379596+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2026-06-24T19:49:45.608422+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3775315",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 19时49分]"
         },
         {
           "title": "谷歌A(GOOGL.O)美股盘后涨超1%，将取代Verizon(VZ.N)在道琼斯指数中的位置；Verizon(VZ.N)盘后跌0.6%。",
