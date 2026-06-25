@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T12:06:56.796725+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2026-06-25T16:27:30.837439+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini vibe coding",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌将Gemini 3.5 Pro发布日期推后至7月份。 因为他们还在花更多时间收集早期测试者的反馈并调整模型。（Business Insider）",
@@ -39,6 +39,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
+        },
+        {
+          "title": "谷歌前CEO批中国AI开源",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E6%89%B9%E4%B8%AD%E5%9B%BDAI%E5%BC%80%E6%BA%90&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "美股AI芯片股盘前涨跌不一，高通(QCOM.O)大涨13%，英特尔(INTC.O)涨近6%，AMD(AMD.O)涨近4%，百度(BIDU.O)跌2%，谷歌(GOOG.O)跌1.4%。",
+          "url": "https://flash.jin10.com/detail/20260625160211701800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         }
       ]
     }
