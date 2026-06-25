@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T01:18:37.723538+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-26T04:10:21.208952+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 04时10分]"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至1%，美股早盘呈现出V形反转，成分股闪迪目前涨18.1%，美光涨16.1%，应用材料涨10.1%，西部数据涨8.1%，高通涨7.9%，阿斯麦ADR涨4.5%，谷歌A跌0.8%，英伟达跌幅收窄至1.1%，Meta跌1.7%，亚马逊跌2.2%，微软跌3.4%，苹果仍然重挫超5.6%，Strategy跌6.9%。 半导体指数涨超4.1%。",
